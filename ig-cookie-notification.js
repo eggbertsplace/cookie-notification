@@ -65,7 +65,7 @@ class IgCookieNotification extends HTMLElement {
                 <div id="cookie-notice">
                     <div class="wrap">
                         <p>
-                          This game follows our <a href="https://innogames.com" target="_blank">Privacy Policy</a>.
+                          This game follows our <a href="https://localhost" target="_blank">Privacy Policy</a>.
                           We use cookies to ensure you get the best experience. This also includes third-party services.<br>
                         </p>
                         <span id="cookie-notice-okay" class="button">Okay</span>
